@@ -1,6 +1,6 @@
 # Hello, World! 🌐
 
-My name is Matthew Pagan, and I'm a RI based Web Developer.
+My name is Matthew Pagan, and I'm a Rhode Island based Web Developer.
 
 ## My Stack, the JAMStack
 
@@ -10,7 +10,7 @@ My name is Matthew Pagan, and I'm a RI based Web Developer.
 
 ## My Goal
 
-My plan is to create a tutoring and web design business, based in RI.
+My plan is to create a tutoring and web design business, based in Rhode Island.
 
 ### Local Entrepreneur and Small Business Web Applications
 
