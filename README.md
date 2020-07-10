@@ -21,7 +21,8 @@ I will create websites based on the above stack of technologies for businesses i
 Creating web sites feels like I'm playing with the world's largest box of Legos. I absolutely cannot WAIT to meet the needs of the Rhode Island community with quality and maintainable code.
 
 Using tools ranging from
-- [Scratch](https://scratch.mit.edu/) to help expose children to the amazing world of coding, to real web development working from basic HTML/CSS/JavaScript
+- [Scratch](https://scratch.mit.edu/), to help expose children to the amazing, creative, and fun world of coding
+- HTML/CSS/JavaScript, the basic building blocks of the web. This is the foundation for leveraging any frameworks to their maximum potential
 - [ReactJS](https://reactjs.org/) a powerful, flexible, and honestly incredibly fun (this is where my Legos analogy plays in) library for painting your website on your canvas of code.
 - [GatsbyJS](https://www.gatsbyjs.org/) (from their site, "Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps")
 - [Vercel](https://vercel.com/), "Develop. Preview. Ship." This is the tool that lets me make websites for my nieces and nephews for fun, because deployment is literally a click away from your code. 
