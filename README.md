@@ -1,5 +1,12 @@
 # 🏗️ UNDER CONSTRUCTION - BUILDING MORE PYLONS 🏗️
 
+## Starter Templates
+
+These are great places to begin diving into a framework, library, tool, etc
+
+- [Linted NextJS Tailwind](https://github.com/mastapegs/linted-nextjs-tailwind-starter)
+- [Create React App w/ TypeScript, Linting, & Tested Pre-built Components](https://github.com/mastapegs/cra-starter)
+
 <!--
 **mastapegs/mastapegs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
