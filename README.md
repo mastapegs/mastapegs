@@ -1,6 +1,6 @@
 # 🏗️ UNDER CONSTRUCTION - BUILDING MORE PYLONS 🏗️
 
-## Starter Templates
+## Starter Templates for TypeScript Development
 
 These are great places to begin diving into a framework, library, tool, etc
 
@@ -21,3 +21,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Rust PokeAPI Workspace
+
+I created this [Rust Workspace](https://github.com/mastapegs/pokeapi-workspace) as a playground for me to build multiple libraries and binaries to accelerate my learning of Rust. Feel free to dive in if you'd like to see how a Rust Monorepo can be setup.
+
+Here are the crates published within so far:
+
+- [pokeapi_getters](https://crates.io/crates/pokeapi_getters)
+- [pokeapi_types](https://crates.io/crates/pokeapi_types)
